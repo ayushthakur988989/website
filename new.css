@@ -1,0 +1,226 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    background-color: white;
+}
+
+.navlogo{
+    height: 80px;
+    width: 180px;
+    background-size: cover;     
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+        
+}
+nav ul li {
+    
+    margin: 23px;
+    color: rgb(24, 8, 8);
+    
+}
+nav ul li a{
+    color: black;
+
+}
+nav ul li a pre{
+    font-size: large;
+}
+.FONT-SEC{
+    display: flex;
+    background-color: brown;
+   justify-content: center;
+   font-family: cursive;
+}
+
+.font-word{
+    font-size: 2.3rem;
+    
+}
+
+.form1 {
+    height: 10cm;
+    width: auto;
+    background-size: cover;
+
+}
+.products{
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+  
+  
+
+    
+    
+    
+}
+.box {
+    
+    height: 330px;
+    width: 300px;
+
+    border: 2px, solid, black;
+    background-color: aliceblue;
+  
+    
+   padding: 15px, 0px, 20px;
+}   
+.box-content{
+    height: 280px;
+    width: 270px;
+    background-color: brown;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    
+    
+}
+.box-img{
+    height: 220px;
+    width: 220px;
+
+    background-size: cover;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 10px;
+    
+
+}
+.sec-section{
+    background-color: rgb(12, 25, 36);
+    display: flex;
+}
+.left-section{
+    height: 10cm;
+    width: 10cm;
+    background-color: rgb(27, 116, 96);
+   
+  
+}
+.font-word1{
+    display: flex;
+    justify-content: left;
+    color: rgb(43, 16, 161);
+    font-family:  fantasy;
+    font-size: 6rem;
+}
+.font-word2{
+    display: flex;
+    justify-content: left;
+    font-size: 2.3rem;
+}
+.right-section{
+    display: flex;
+    justify-content: right;
+    height: 10cm;
+    width: 25cm;
+    background-image: cover;
+}
+.medicine-section{
+    background-color: rgb(31, 124, 31);
+    height: 41cm;
+}
+.mb1{
+    background-color: white;
+    height: 10cm;
+    width: 100%;
+    display: flex;
+}
+.med1{
+    height: 10cm;
+    width: 10cm;
+    display: flex;
+    justify-content: left;
+      
+    background-size: cover;
+
+}
+.med2{
+    
+    display: flex;
+    justify-content: left;
+    height: 10cm;
+    width: 22cm;
+   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: 100;
+    font-size: xx-large;
+    
+    
+}
+.mb2{
+    height: 10cm;
+    width: 30cm;
+    
+    display: flex;
+    margin-left: 5.7cm;
+}
+.med3{
+    height: 10cm;
+    width: 23cm;
+    display: flex;
+    justify-content: left;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    
+
+}
+.med4{
+    height: 10cm;
+    width: 10cm;
+    display: flex;
+    justify-content: right;
+    
+    background-size: cover;
+
+}
+.foot{
+    height: 5cm;
+    width: 100%;
+    background-color: rgb(24, 11, 2);
+    
+}
+.foot1{
+    height: 1cm;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-display: center;
+}
+.foot2{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+.lower{
+    height: 1.3cm;
+    width:100%;
+    background-color: rgb(4, 4, 44);
+}
+.lower1{
+    height: 0.8cm;
+    width: 10cm;
+    display: flex;
+    justify-content: center;
+    border: 2px, solid, black;
+    margin-left: 13cm;
+    padding: 0.4rem;
+    background-color: black;
+    color: white;
+}
